@@ -1,5 +1,5 @@
-# Awesome MVPs
-Awesome list of Microsoft's Most Valuable Professionals
+# Awesome Brazilian Microsoft's Most Baluable Professionals
+Awesome list of Brazilian Microsoft's Most Valuable Professionals
 
 inspired by https://github.com/sindresorhus/awesome
 
