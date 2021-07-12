@@ -12,11 +12,9 @@ inspired by https://github.com/sindresorhus/awesome
 | [Allisson  Scalco](https://mvp.microsoft.com/pt-br/mvp/Allisson%20%20Scalco-5003598) | Business Applications | ? | ? |
 | [Andre  Xavier](https://mvp.microsoft.com/pt-br/mvp/Andre%20%20Xavier-4038152) | Office Apps & Services | ? | ? |
 | [André Baltieri](https://mvp.microsoft.com/pt-br/mvp/Andr%C3%A9%20Baltieri-5000060) | Developer Technologies | ? | ? |
-| [Andre Dias](https://mvp.microsoft.com/pt-br/mvp/Andre%20Dias-4034922) | Developer Technologies | ?
-| ? |
+| [Andre Dias](https://mvp.microsoft.com/pt-br/mvp/Andre%20Dias-4034922) | Developer Technologies | ? | ? |
 | [André Luiz Secco](https://mvp.microsoft.com/pt-br/mvp/Andr%C3%A9%20Luiz%20Secco-5002377) | AI, Developer Technologies | ? | ? |
-| [André Mattos Oliveira](https://mvp.microsoft.com/pt-br/mvp/Andr%C3%A9%20Mattos%20Oliveira-4012883)
-| Enterprise Mobility | ? | ? |
+| [André Mattos Oliveira](https://mvp.microsoft.com/pt-br/mvp/Andr%C3%A9%20Mattos%20Oliveira-4012883) | Enterprise Mobility | ? | ? |
 | [André Ruschel](https://mvp.microsoft.com/pt-br/mvp/Andr%C3%A9%20Ruschel-4033479) | Cloud and Datacenter Management | ? | ? |
 | [Angelo Luis](https://mvp.microsoft.com/pt-br/mvp/Angelo%20Luis%20%20-5001635) | AI, Developer Technologies | ? | ? |
 | [Antonio Maniero](https://mvp.microsoft.com/pt-br/mvp/Antonio%20Maniero-5002397) | Developer Technologies | ? | ? |
@@ -25,8 +23,7 @@ inspired by https://github.com/sindresorhus/awesome
 | [Bruno Fernandes  dos Anjos](https://mvp.microsoft.com/pt-br/mvp/Bruno%20Fernandes%20%20dos%20Anjos-5003500) | Windows Development | ? | ? |
 | [CAIO S AMANTE](https://mvp.microsoft.com/pt-br/mvp/CAIO%20S%20AMANTE-5003229) | Data Platform | ? | ? |
 | [Carlos dos Santos](https://mvp.microsoft.com/pt-br/mvp/Carlos%20dos%20Santos-4015740) | Developer Technologies | ? | ? |
-| [Claudenir Campos Andrade](https://mvp.microsoft.com/pt-br/mvp/Claudenir%20Campos%20Andrade-7863) |
-Microsoft Azure, Windows Development | ? | ? |
+| [Claudenir Campos Andrade](https://mvp.microsoft.com/pt-br/mvp/Claudenir%20Campos%20Andrade-7863) | Microsoft Azure, Windows Development | ? | ? |
 | [Claudio Bonel da Silva](https://mvp.microsoft.com/pt-br/mvp/Claudio%20Bonel%20da%20Silva-5003102) | Data Platform | ? | ? |
 | [Cristiano  Galvão](https://mvp.microsoft.com/pt-br/mvp/Cristiano%20%20Galv%C3%A3o-5003914) | Office Apps & Services | ? | ? |
 | [Dani  Monteiro](https://mvp.microsoft.com/pt-br/mvp/Dani%20%20Monteiro-5003088) | Data Platform | ? | ? |
@@ -36,18 +33,15 @@ Microsoft Azure, Windows Development | ? | ? |
 | [Dirceu Resende](https://mvp.microsoft.com/pt-br/mvp/Dirceu%20Resende-5003166) | Data Platform | ? | ? |
 | [Douglas Romão](https://mvp.microsoft.com/pt-br/mvp/Douglas%20Rom%C3%A3o%20-5002850) | Business Applications, Office Apps & Services | ? | ? |
 | [Eduardo Amaral](https://mvp.microsoft.com/pt-br/mvp/Eduardo%20Amaral-5004013) | Business Applications | ? | ? |
-| [Eduardo José Kieling](https://mvp.microsoft.com/pt-br/mvp/Eduardo%20Jos%C3%A9%20Kieling-5003468) |
-Microsoft Azure | ? | ? |
+| [Eduardo José Kieling](https://mvp.microsoft.com/pt-br/mvp/Eduardo%20Jos%C3%A9%20Kieling-5003468) | Microsoft Azure | ? | ? |
 | [Eduardo Pires](https://mvp.microsoft.com/pt-br/mvp/Eduardo%20Pires-5000577) | Developer Technologies | ? | ? |
 | [Elemar Rodrigues Severo Junior](https://mvp.microsoft.com/pt-br/mvp/Elemar%20Rodrigues%20Severo%20Junior-4038142) | Developer Technologies | ? | ? |
 | [Emmanuel Gomes Brandao](https://mvp.microsoft.com/pt-br/mvp/Emmanuel%20Gomes%20Brandao-5002135) | Developer Technologies | ? | ? |
 | [Erick  Wendel](https://mvp.microsoft.com/pt-br/mvp/Erick%20%20Wendel-5002509) | Developer Technologies | ? | ? |
 | [Ericson da Fonseca](https://mvp.microsoft.com/pt-br/mvp/Ericson%20da%20Fonseca-5003165) | Microsoft Azure | ? | ? |
-| [Ewerton  Jordão](https://mvp.microsoft.com/pt-br/mvp/Ewerton%20%20Jord%C3%A3o-5003566) | Microsoft
-Azure | ? | ? |
+| [Ewerton  Jordão](https://mvp.microsoft.com/pt-br/mvp/Ewerton%20%20Jord%C3%A3o-5003566) | Microsoft Azure | ? | ? |
 | [Fabiana Ravaneda Vercezes](https://mvp.microsoft.com/pt-br/mvp/Fabiana%20Ravaneda%20Vercezes-5003551) | Data Platform | ? | ? |
-| [Fabiano Neves Amorim](https://mvp.microsoft.com/pt-br/mvp/Fabiano%20Neves%20Amorim-4033491) | Data
-Platform | ? | ? |
+| [Fabiano Neves Amorim](https://mvp.microsoft.com/pt-br/mvp/Fabiano%20Neves%20Amorim-4033491) | Data Platform | ? | ? |
 | [Fabrício  Lima](https://mvp.microsoft.com/pt-br/mvp/Fabr%C3%ADcio%20%20Lima-5002479) | Data Platform | ? | ? |
 | [Fernando Augusto Garcia Martins](https://mvp.microsoft.com/pt-br/mvp/Fernando%20Augusto%20Garcia%20Martins-5002398) | Data Platform | ? | ? |
 | [Fernando Mendes](https://mvp.microsoft.com/pt-br/mvp/Fernando%20Mendes-5004110) | Developer Technologies | ? | ? |
@@ -57,9 +51,8 @@ Platform | ? | ? |
 | [Graziella Bonizi](https://mvp.microsoft.com/pt-br/mvp/Graziella%20Bonizi-5004002) | Cloud and Datacenter Management | ? | ? |
 | [Guilherme Maia](https://mvp.microsoft.com/pt-br/mvp/Guilherme%20Maia-5003641) | Microsoft Azure | ? | ? |
 | [Gustavo Bellini Bigardi](https://mvp.microsoft.com/pt-br/mvp/Gustavo%20Bellini%20Bigardi-5003504) | Developer Technologies | ? | ? |
-| [Heber Lopes](https://mvp.microsoft.com/pt-br/mvp/Heber%20Lopes-5003253) | Office Apps & Services |
-? | ? |
-| [Idevar Gonçalves de Souza Junior](https://mvp.microsoft.com/pt-br/mvp/Idevar%20Gon%C3%A7alves%20de%20Souza%20Junior-4029175) | Business Applications, Windows and Devices for IT | ? | ? |
+| [Heber Lopes](https://mvp.microsoft.com/pt-br/mvp/Heber%20Lopes-5003253) | Office Apps & Services | ? | ? |
+| [Idevar Gonçalves de Souza Junior](https://mvp.microsoft.com/pt-br/mvp/Idevar%20Gon%C3%A7alves%20de%20Souza%20Junior-4029175) | Business Applications, Windows and Devices for IT |  | ? |
 | [Igor Santos De Paula](https://mvp.microsoft.com/pt-br/mvp/Igor%20Santos%20De%20Paula-5003107) | Data Platform | ? | ? |
 | [Ione Souza Junior](https://mvp.microsoft.com/pt-br/mvp/Ione%20Souza%20Junior-5003793) | Developer Technologies | ? | ? |
 | [Ismael  Casagrande](https://mvp.microsoft.com/pt-br/mvp/Ismael%20%20Casagrande-5004172) | Microsoft Azure | ? | ? |
@@ -71,10 +64,8 @@ Platform | ? | ? |
 | [João Lucas Farias](https://mvp.microsoft.com/pt-br/mvp/Jo%C3%A3o%20Lucas%20Farias-5003807) | Developer Technologies | ? | ? |
 | [Jorge Maia](https://mvp.microsoft.com/pt-br/mvp/Jorge%20Maia-5001843) | Microsoft Azure | ? | ? |
 | [José Ahirton Lopes](https://mvp.microsoft.com/pt-br/mvp/Jos%C3%A9%20Ahirton%20Lopes-5003723) | AI | ? | ? |
-| [Josué Vidal](https://mvp.microsoft.com/pt-br/mvp/Josu%C3%A9%20Vidal-5000031) | Microsoft Azure | ?
-| ? |
-| [Juliano Custódio](https://mvp.microsoft.com/pt-br/mvp/Juliano%20Cust%C3%B3dio-5003228) | Developer
-Technologies | ? | ? |
+| [Josué Vidal](https://mvp.microsoft.com/pt-br/mvp/Josu%C3%A9%20Vidal-5000031) | Microsoft Azure | ? | ? |
+| [Juliano Custódio](https://mvp.microsoft.com/pt-br/mvp/Juliano%20Cust%C3%B3dio-5003228) | Developer Technologies | ? | ? |
 | [Julio  Arruda](https://mvp.microsoft.com/pt-br/mvp/Julio%20%20Arruda-5002557) | Developer Technologies | ? | ? |
 | [Kamila  de Fátima   Santos Oliveira](https://mvp.microsoft.com/pt-br/mvp/Kamila%20%20de%20F%C3%A1tima%20%20%20Santos%20Oliveira-5004109) | Developer Technologies | ? | ? |
 | [Karine Gouvea Dibai do Lago](https://mvp.microsoft.com/pt-br/mvp/Karine%20Gouvea%20Dibai%20do%20Lago-5002633) | Data Platform, Office Apps & Services | ? | ? |
@@ -122,8 +113,7 @@ Technologies | ? | ? |
 | [RODRIGO  DORNEL](https://mvp.microsoft.com/pt-br/mvp/RODRIGO%20%20DORNEL-5002023) | Data Platform | ? | ? |
 | [Rodrigo Crespi](https://mvp.microsoft.com/pt-br/mvp/Rodrigo%20Crespi-5002511) | Data Platform | ? | ? |
 | [Rodrigo Immaginario](https://mvp.microsoft.com/pt-br/mvp/Rodrigo%20Immaginario-9837) | Cloud and Datacenter Management | ? | ? |
-| [Rodrigo Kono](https://mvp.microsoft.com/pt-br/mvp/Rodrigo%20Kono-4020681) | Developer Technologies
-| ? | ? |
+| [Rodrigo Kono](https://mvp.microsoft.com/pt-br/mvp/Rodrigo%20Kono-4020681) | Developer Technologies | ? | ? |
 | [Rubens Guimarães](https://mvp.microsoft.com/pt-br/mvp/Rubens%20Guimar%C3%A3es-5002478) | AI, Microsoft Azure | ? | ? |
 | [Ruy  Lacerda](https://mvp.microsoft.com/pt-br/mvp/Ruy%20%20Lacerda-5003142) | Data Platform | ? | ? |
 | [SULAMITA  DANTAS](https://mvp.microsoft.com/pt-br/mvp/SULAMITA%20%20DANTAS-5003100) | Data Platform | ? | ? |
